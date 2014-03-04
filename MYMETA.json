@@ -32,10 +32,10 @@
       },
       "runtime" : {
          "requires" : {
-            "PGObject" : "0"
+            "PGObject" : "1.400001"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "v1.0.1"
+   "version" : "v1.0.2"
 }

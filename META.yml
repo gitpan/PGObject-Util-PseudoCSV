@@ -18,5 +18,5 @@ no_index:
     - t
     - inc
 requires:
-  PGObject: 0
-version: v1.0.1
+  PGObject: 1.400001
+version: v1.0.2
