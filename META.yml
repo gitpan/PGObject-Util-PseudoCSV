@@ -17,5 +17,6 @@ no_index:
   directory:
     - t
     - inc
-requires: {}
-version: v1.0.0
+requires:
+  PGObject: 0
+version: v1.0.1

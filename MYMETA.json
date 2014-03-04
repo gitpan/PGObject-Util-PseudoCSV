@@ -31,9 +31,11 @@
          }
       },
       "runtime" : {
-         "requires" : {}
+         "requires" : {
+            "PGObject" : "0"
+         }
       }
    },
    "release_status" : "stable",
-   "version" : "v1.0.0"
+   "version" : "v1.0.1"
 }
