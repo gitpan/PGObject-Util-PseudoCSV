@@ -1,10 +1,10 @@
 {
-   "abstract" : "The great new PGObject::Util::PseudoCSV!",
+   "abstract" : "Tuple/Array parsing and serialization for PGObject",
    "author" : [
       "Chris Travers <chris.travers@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 6.6302, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "ExtUtils::MakeMaker version 6.72, CPAN::Meta::Converter version 2.132140",
    "license" : [
       "bsd"
    ],
@@ -37,5 +37,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "v1.0.2"
+   "version" : "v1.0.3"
 }
